@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Previously, config your node environment with Node: ***v16.1.0***
+
+
 First, run the development server:
 
 ```bash
