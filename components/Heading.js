@@ -1,10 +1,10 @@
 // import styles from '../styles/Home.module.css'
-import styles from '../styles/Heading.module.css'
+// import styles from '../styles/Heading.module.css'
 
 export const Heading = ({ content }) => {
 
   return (
-    <h1 className={styles.myh1}>{ content }</h1>
+    <h1 className="text-3xl">{ content }</h1>
   )
 }
 
